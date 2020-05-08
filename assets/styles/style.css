@@ -19,6 +19,10 @@ body {
   background-color: var(--bg);
 }
 
+h1{
+  font-size: 2.3em;
+}
+
 .row {
   width: 100% !important;
 }
